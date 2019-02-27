@@ -8,6 +8,7 @@ target 'ParseChat' do
   # Pods for ParseChat
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'ParseChatTests' do
     inherit! :search_paths
